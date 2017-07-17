@@ -1,4 +1,4 @@
-FROM python:2.7-alpine
+FROM python:3
 
 # Create app directory
 RUN mkdir -p /usr/src/app

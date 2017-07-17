@@ -3,4 +3,4 @@ class PrintMes(object):
         self.mes = mes
 
     def print_mes(self):
-        print self.mes
+        print(self.mes)
